@@ -278,10 +278,10 @@ margin-right: .25rem; }
     background: #e0413b;
     border: 1px solid #e0413b; }
 
-
-.myicon {
-
-      -webkit-box-flex: 1;
+  .myicon {
+  -webkit-box-flex: 1;
+      border: 5px solid rgb(199,199,199);
+  -webkit-box-shadow: 2px 6px 25px rgba(0, 0, 0, 0.1);
     -ms-flex: 1 1 50%;
      flex: 1 1 50%;
     -webkit-transition: all .3s ease;
@@ -299,4 +299,4 @@ margin-right: .25rem; }
     line-height: 1.5;
     font-size: 1.1rem;
     color: #666666;
-    }
+}
